@@ -62,10 +62,11 @@ python main.py -i 'examples/sdinpaint/122000000009.jpg' -m 'examples/masks/12200
 
 If you use ReMOVE or find this work useful for your research, please use the following BibTeX entry.
 ```bibtex
-@InProceedings{Chandrasekar_2024_CVPRW,
+@InProceedings{Chandrasekar_2024_CVPR,
     author    = {Chandrasekar$^*$, Aditya and Chakrabarty$^*$, Goirik and Bardhan, Jai and Hebbalaguppe, Ramya and AP, Prathosh},
     title     = {ReMOVE: A Reference-free Metric for Object Erasure},
-    booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
-    year      = {2024},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2024}
 }
 ```
